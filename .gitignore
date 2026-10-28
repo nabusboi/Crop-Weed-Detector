@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+weed_crop_yolo_dataset/
+
